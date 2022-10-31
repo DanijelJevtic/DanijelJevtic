@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @DanijelJevtic
 - 👀 I’m interested in quantitative Finance.
-- 🌱 I’m currently learning Finance.
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning financial topics.
 - 📫 How to reach me jevtic.d@hotmail.com 
 
 <!---
